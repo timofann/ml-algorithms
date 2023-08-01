@@ -1,0 +1,1 @@
+This repository will slowly collect some useful algorithms. I'm currently going to dive deeper in trees models, NER and gradient descent modernization. Probably sometime it will be covered by a graphical interface or a console one
